@@ -1,0 +1,76 @@
+.ant-tabs-nav-wrap{
+    justify-content: space-evenly;
+}
+
+.ant-tabs-tab-btn{
+    color: #000048 !important;
+}
+
+.ant-card{
+    width: 25% !important;
+}
+
+.verticalNavbar{
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    background: #ECF8F9;
+}
+
+.navItems{
+    margin: 1vh;
+    padding: 1vh;
+}
+
+.navItems:hover{
+    background: #000048;
+    border-radius: 2vh;
+}
+
+.navItems:hover a{
+    color: white;
+}
+
+.navItems a{
+    text-decoration: none;
+    color: black;
+
+}
+
+.active{
+    color: white !important;
+    background-color: #000048;
+    padding-inline: 2vh;
+    padding-block: 1vh;
+    border-radius: 2vh;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 5vh;
+    width: 16%;
+}
+
+.footer button{
+    width: 80%;
+}
+
+.home{
+    width: 100%;
+    padding: 10vh;
+    display: flex;
+    justify-content: space-around;
+}
+
+.card:hover{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    cursor: pointer;
+}
+
+.cards-ant:hover{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    cursor: pointer;
+
+}

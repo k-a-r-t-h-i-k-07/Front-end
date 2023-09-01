@@ -1,0 +1,13 @@
+.inputs.rto{
+    margin-bottom: 2vh;
+    display: flex;
+    margin-left: 19vh;
+}
+
+.rmdp-container{
+    width: 63.4%;
+}
+
+.rmdp-input{
+    width: 100% !important;
+}
